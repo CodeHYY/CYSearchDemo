@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CYSearchDemo/SearchCollectionViewCell.m"
+            timestampString = "551286373.848369"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "-init"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[SearchCollectionViewCell init]"
+                  moduleName = "CYSearchDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/luckyslider/Desktop/%E6%90%9C%E7%B4%A2%E9%A1%B5%E9%9D%A2/CYSearchDemo/CYSearchDemo/SearchCollectionViewCell.m"
+                  timestampString = "551322909.795272"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "440">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__32-[SearchCollectionViewCell init]_block_invoke"
+                  moduleName = "CYSearchDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/luckyslider/Desktop/%E6%90%9C%E7%B4%A2%E9%A1%B5%E9%9D%A2/CYSearchDemo/CYSearchDemo/SearchCollectionViewCell.m"
+                  timestampString = "551322909.79972"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
